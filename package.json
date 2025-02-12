@@ -107,5 +107,8 @@
   "bugs": {
     "url": "https://github.com/anish2690/vue-draggable-next/issues"
   },
-  "homepage": "https://github.com/anish2690/vue-draggable-next#readme"
+  "homepage": "https://github.com/anish2690/vue-draggable-next#readme",
+  "dependencies": {
+    "vue3-virtual-scroller": "^0.2.3"
+  }
 }

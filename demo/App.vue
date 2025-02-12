@@ -46,6 +46,11 @@ const tabs = [
     name: 'Third Party',
     component: 'third-party',
   },
+  {
+    name: 'virtual-list',
+    component: 'virtual-scroll',
+    path: 'virtual-list',
+  },
 ]
 
 const components = tabs.reduce((comps, item) => {
